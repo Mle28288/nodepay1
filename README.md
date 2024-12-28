@@ -11,9 +11,6 @@ pkg install git
    ```bash
    cd nodepay1
    ```
-   ```bash
-   pip3.12 install -r requirements.txt
-   ```
 **ADD ACCOUNTS**
    ```
    nano token.txt
