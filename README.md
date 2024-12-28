@@ -11,6 +11,15 @@ pkg install git
    ```bash
    cd nodepay1
    ```
+   ```bash
+   pip install cloudscraper
+   ```
+   ```bash
+   pip install loguru
+   ```
+   ```bash
+   pip install fake_useragent
+   ```
 **ADD ACCOUNTS**
    ```
    nano token.txt
