@@ -1,3 +1,11 @@
+##hack features👇
+```
+(1) 3 connection🔥
+(2) multiple account support 🔥
+(3) without proxy😬
+(4) 10000% Free ‼️
+
+
 ## COOMANDS
 ```
 pkg install python rust git -y
